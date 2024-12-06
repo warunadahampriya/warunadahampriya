@@ -9,7 +9,8 @@
    I'm passionate about blending creativity with analytical thinking to design user-centered digital experiences. With a strong foundation in Management Information Systems and Project Management, I focus on crafting intuitive designs that enhance usability, streamline processes, and drive efficiency in business environments.  
 
 - **Education**:  
-   🎓 **Final Year Undergraduate** - BSc in Management Information Systems (Special), NSBM Green University.  
+   🎓 **Final Year Undergraduate** - BSc in Management Information Systems (Special),
+                                      NSBM Green University, Sri Lanka.  
 
 - **Interests**:  
    🎨 UX/UI Design, Web Development, HCI Research, and Prototyping.  
@@ -35,15 +36,13 @@
 
 ### 🏆 Achievements & Certifications:
 1. **Bootcamp for UX/UI Design** - with Mr. Rasika Mahindasiri (2024).  
-2. **Diploma in ICT & Computing** - IDM Nations Campus (2017).  
-3. **Higher Diploma in English** - British Way English Academy (2023).  
 
 ---
 
 ### 🤝 Let's Connect:
 - 🌐 **Portfolio**: [[Behance]](https://www.behance.net/warunadahampr)  
 - 📧 **Email**: [[Gmail]](pwdkumarasiri@gmail.com)  
-- 🔗 **LinkedIn**:[[LinkedIn]](www.linkedin.com/in/warunadahampriya)  
+- 🔗 **LinkedIn**:[[LinkedIn]](http://www.linkedin.com/in/warunadahampriya)  
 
 ---
 
