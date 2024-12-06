@@ -1,16 +1,56 @@
 ## Hi there 👋
+# Hi there! 👋 Welcome to my GitHub!
 
-<!--
-**warunadahampriya/warunadahampriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👤 About Me:
+- **I'm Waruna Dahampriya**   
+- **Role**: UX/UI Designer - Intern  
+- **Background**:  
+   I'm passionate about blending creativity with analytical thinking to design user-centered digital experiences. With a strong foundation in Management Information Systems and Project Management, I focus on crafting intuitive designs that enhance usability, streamline processes, and drive efficiency in business environments.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Education**:  
+   🎓 **Final Year Undergraduate** - BSc in Management Information Systems (Special), NSBM Green University.  
+
+- **Interests**:  
+   🎨 UX/UI Design, Web Development, HCI Research, and Prototyping.  
+   🖥️ Collaborating on projects that involve intuitive user experiences and efficient digital solutions.
+  
+---
+
+### 🚀 Technical Skills:
+#### Tools & Technologies:
+- **Design**: Figma, Photoshop, Canva  
+- **Expertise**:  
+  - Prototyping & Wireframing  
+  - User Research & User Flows  
+  - Human-Computer Interaction (HCI)  
+
+#### Soft Skills:
+- Project Management  
+- Creativity & Critical Thinking  
+- Business Analysis & Leadership  
+- Teamwork  
+
+---
+
+### 🏆 Achievements & Certifications:
+1. **Bootcamp for UX/UI Design** - with Mr. Rasika Mahindasiri (2024).  
+2. **Diploma in ICT & Computing** - IDM Nations Campus (2017).  
+3. **Higher Diploma in English** - British Way English Academy (2023).  
+
+---
+
+### 🤝 Let's Connect:
+- 🌐 **Portfolio**: [[Behance]](https://www.behance.net/warunadahampr)  
+- 📧 **Email**: [waruna@example.com](pwdkumarasiri@gmail.com)  
+- 🔗 **LinkedIn**: [Connect on LinkedIn](www.linkedin.com/in/warunadahampriya)  
+
+---
+
+### 📝 Personal Motto:
+> "Design is not just what it looks like and feels like. Design is how it works."  
+
+---
+
+🌟 **Thank you for visiting my GitHub!**  
