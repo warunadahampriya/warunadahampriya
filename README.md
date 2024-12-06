@@ -43,8 +43,8 @@
 
 ### 🤝 Let's Connect:
 - 🌐 **Portfolio**: [[Behance]](https://www.behance.net/warunadahampr)  
-- 📧 **Email**: [waruna@example.com](pwdkumarasiri@gmail.com)  
-- 🔗 **LinkedIn**: [Connect on LinkedIn](www.linkedin.com/in/warunadahampriya)  
+- 📧 **Email**: [[Gmail]](pwdkumarasiri@gmail.com)  
+- 🔗 **LinkedIn**:[[LinkedIn]](www.linkedin.com/in/warunadahampriya)  
 
 ---
 
